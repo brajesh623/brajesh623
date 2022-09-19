@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Back-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brajesh623&label=Profile%20views&color=0e75b6&style=flat" alt="brajesh623" /> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=brajesh623&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brajesh623" alt="brajesh623" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
