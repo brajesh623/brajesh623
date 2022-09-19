@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **brajesh123493@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mEudALERFoRcmFT2_J6hqUNrwmMpohj3/view?usp=sharing](https://drive.google.com/file/d/1mEudALERFoRcmFT2_J6hqUNrwmMpohj3/view?usp=sharing)
+- 📄 Know about my experiences [https://github.com/brajesh623/brajesh623.github.io/blob/main/Brajesh_Kumar_Resume.pdf](https://github.com/brajesh623/brajesh623.github.io/blob/main/Brajesh_Kumar_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
