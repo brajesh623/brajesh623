@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Brajesh Kumar</h1>
-<h3 align="center">A passionate Java Back-end developer</h3>
+<h1 align="left">Hi 👋, I'm Brajesh Kumar</h1>
+<h3 align="left">I am an aspiring Java Back-end Developer. Collaborative, team
+player who can work with teams and be productive. Interested in
+obtaining a Software Developer position. Always like to learn new
+skills and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brajesh623&label=Profile%20views&color=0e75b6&style=flat" alt="brajesh623" /> </p>
 
