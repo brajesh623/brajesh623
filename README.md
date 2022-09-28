@@ -12,7 +12,7 @@ skills and technologies.</h3>
 
 - 🌱 I’m currently learning **Java,Sprinboot,MySQL,Hybernate,HTML,CSS,Javascript, C/C++, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/brajesh623](https://github.com/brajesh623)
+- 👨‍💻 All of my projects are available at [https://brajesh623.github.io/](https://brajesh623.github.io/)
 
 - 💬 Ask me about **Data Structures And Algorithms, Front-End Technologies, Back-End Technologies**
 
