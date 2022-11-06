@@ -3,10 +3,7 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/brajesh623" target="_blank">Brajesh kumar</a> 
 </h1>
 
-<h4 align="center">I am an aspiring Java Back-end Developer. Collaborative, team
-player who can work with teams and be productive. Interested in
-obtaining a Software Developer position. Always like to learn new
-skills and technologies.</h4>
+<h4 align="center">Innovative, task-driven Java back-end developer with a good understanding of web development, along with 30 weeks(1000+ hrs) of coding experience and good communication skills, seeking an entry-level position to begin my career in a high-level professional environment to make use of my interpersonal skills to achieve the goals of a company and to intensify my skillset along the way.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brajesh623&label=Profile%20views&color=0e75b6&style=flat" alt="brajesh623" /> <img src="https://img.shields.io/github/followers/brajesh623?label=Github%20Connection&style=flat" alt="Github Followers" /></p>
