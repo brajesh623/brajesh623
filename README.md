@@ -22,7 +22,7 @@
 
 - 📫 How to reach me 📧 **brajesh123493@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/brajesh623/brajesh623.github.io/blob/main/Brajesh_Kumar_Resume.pdf" download="Brajesh_Kumar_Resume" target="_blank">**📄GET RESUME⬇️**</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/uc?export=download&id=1qswzGix2GHTPruayuqHvJrei7Z4moFou" download="Brajesh_Kumar_Resume" target="_blank">**📄GET RESUME⬇️**</a>
 - 💼 See my portfolio <a href="https://brajesh623.github.io/" target="blank">**👤Brajesh**</a> 
 
 # 🌐 Connect with me:
