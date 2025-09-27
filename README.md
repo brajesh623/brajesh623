@@ -13,58 +13,35 @@
 
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
 
-- 🌱 I’m currently learning **Java,Sprinboot,MySQL,Hybernate,HTML,CSS,Javascript, C/C++, Python**
+- 🌱 I’m currently learning **C# & .Net**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/brajesh623?tab=repositories" target="_blank">**Github**<img src="https://github.githubassets.com/pinned-octocat.svg" alt="GitHub" width="30" height="25">
 </a>
-
-- 💬 Ask me about **DSA, Front-End Technologies, And Back-End Technologies**
 
 - 📫 How to reach me 📧 **brajesh123493@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/uc?export=download&id=1Op6iUVHvJnWarOur3EImWwD5rpeqe8Ui" download="Brajesh_Kumar_Resume" target="_blank">**📄GET RESUME⬇️**</a>
 - 💼 See my portfolio <a href="https://brajesh623.github.io/" target="blank">**👤Brajesh**</a> 
 
-# 🌐 Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/brajesh623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brajesh623" height="30" width="40" /></a>
-</p>
-
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brajesh623) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brajesh123493@gmail.com) 
 
 # 💻 Tech Stack:
-
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<br>
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brajesh623&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=brajesh623&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brajesh623&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://github.com/brajesh623/github-profile-troph)"><img src="https://github-profile-trophy.vercel.app/?username=brajesh623" alt="brajesh623" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brajesh623&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brajesh623&show_icons=true&locale=en" alt="brajesh623" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=brajesh623&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=brajesh623&" alt="brajesh623" />
-
-
-  <img width="32%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=brajesh623&show_icons=true&locale=en&layout=compact" alt="brajesh623" />
-  <img width="65%" height="220" src="https://activity-graph.herokuapp.com/graph?username=brajesh623&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4%22" alt="brajesh623" />
-
-</p>
-
-
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> 
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-    
-  <img width="52%" height="160" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" /> 
-    <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)-->
-  <img width="47%" height="160" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/eat_sleep_code_repeat.jpg" />   
-</p>
-<h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>  
+---
+[![](https://visitcount.itsvg.in/api?id=brajesh623&icon=0&color=0)](https://visitcount.itsvg.in)
 
