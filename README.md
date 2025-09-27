@@ -3,7 +3,11 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/brajesh623" target="_blank">Brajesh kumar</a> 
 </h1>
 
-<h4 align="center">Innovative, task-driven Java back-end developer with a good understanding of web development, along with 30 weeks(1000+ hrs) of coding experience and good communication skills, seeking an entry-level position to begin my career in a high-level professional environment to make use of my interpersonal skills to achieve the goals of a company and to intensify my skillset along the way.</h4>
+<h4 align="center">An aspiring C# Back-end Developer with a strong foundation in building robust and scalable applications. With over 1000 hours of coding experience, I am passionate about crafting efficient solutions and am currently focused on expanding my expertise in the .NET framework, ASP.NET, and C#.
+
+My profile showcases my journey, from working on foundational projects in Java to developing a full-stack skillset. I am particularly proud of my work with the .NET framework, as seen in my upcoming projects. I also have a solid understanding of MySQL and RESTful API integration, which are crucial for back-end development.
+
+I am actively seeking an entry-level position where I can contribute to real-world projects, learn from experienced professionals, and continue to grow as a developer. I am a team player with a proven ability to handle tasks diligently and collaborate effectively. Feel free to connect with me to discuss potential opportunities or collaborations!</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brajesh623&label=Profile%20views&color=0e75b6&style=flat" alt="brajesh623" /> <img src="https://img.shields.io/github/followers/brajesh623?label=Github%20Connection&style=flat" alt="Github Followers" /></p>
